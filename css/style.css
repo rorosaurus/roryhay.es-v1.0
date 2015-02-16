@@ -60,7 +60,7 @@ textarea{font-family:Arial;padding:8px 0 8px 5px;margin:0 0 10px 0;width:420px;b
 ul.skills{margin:10px 0 0 0}
 ul.skills li{padding:15px 10px 14px 0;border-bottom:1px solid #ddd;color:#888;text-shadow:1px 1px 1px #fff;list-style:none}
 ul.skills li:last-child{border-bottom:none}
-ul.skills li .topic{float:left;width:160px;font-weight:bold;color:#777;font-size:14px;text-shadow:1px 1px 1px #fff;height:7px}
+ul.skills li .topic{float:left;width:140px;font-weight:bold;color:#777;font-size:14px;text-shadow:1px 1px 1px #fff;height:7px}
 ul.skills li .stars{float:left;width:120px}
 
 /*----------------------------------Work----------------------------------*/
