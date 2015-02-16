@@ -1,15 +1,12 @@
 BEGIN:VCARD
 VERSION:2.1
-N:Hayes;Rory;Oliver;Mr.
-FN:Rory Oliver Hayes
-ORG:National Information Solutions Cooperative
-TITLE:Software Developer
-TEL;CELL;VOICE:314-566-0038
-ADR;HOME:;;;St. Louis;Missouri;;United States
-LABEL;HOME;ENCODING=QUOTED-PRINTABLE:St. Louis, Missouri=0D=0AUnited States
+N:Hayes;Rory;;Mr.
+FN:Rory Hayes
+ORG:Microsoft Corporation
+TITLE:Software Developer in Test
+ADR;HOME:;;;Greater Seattle Area;Washington;;United States
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:Greater Seattle Area, Washington=0D=0AUnited States
 URL;HOME:http://www.roryhay.es
-EMAIL;PREF;INTERNET:rory@roryhay.es
-EMAIL;INTERNET:rory.hayes@mst.edu
-EMAIL;INTERNET:roryohayes@gmail.com
+EMAIL;PREF;INTERNET:roryohayes@gmail.com
 REV:20121102T162020Z
 END:VCARD
