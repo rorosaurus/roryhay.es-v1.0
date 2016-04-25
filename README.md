@@ -1,2 +1,1 @@
-# http://roryhay.es/
-A static personal website
+A static personal website, previously used for my personal page
